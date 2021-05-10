@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ocean.mk
+    $(LOCAL_DIR)/p404_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ocean-eng \
-    aosp_ocean-user \
-    aosp_ocean-userdebug
+    p404_ocean-eng \
+    p404_ocean-user \
+    p404_ocean-userdebug
